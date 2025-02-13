@@ -88,23 +88,23 @@ In addition to my research, I authored the book "Agricultural Extension Educatio
 ---
 
 ## Leadership Role 
-- **Senator**, University of Illinois Urbana Champaign, 2025
-- **President**, Nepalese Student Association, University of Georgia, 2023-2024  
--  **President**, LEO Club of Dharan Vijayapur, 2017-2018 
+- SENATOR, University of Illinois Urbana Champaign, 2025
+- PRESIDENT, Nepalese Student Association, University of Georgia, 2023-2024  
+- PRESIDENT, LEO Club of Dharan Vijayapur, 2017-2018 
 
 ---
 
 ## Skills  
-- **Programming:** Python, MATLAB, R  
-- **Technical:** Drone, 3D Printing, AutoCAD  
-- **Soft Skills:** Leadership, Team Management  
+- Programming: Python, MATLAB, R  
+- Technical: Drone, 3D Printing, AutoCAD  
+- Soft Skills: Leadership, Team Management  
 
 ---
 
 ## Honors & Awards  
-- **Snizhana Radzetska Award**, UGA (2024)
-- **Travel Grant Award**, UGA (2024)
-- **Emerging Youth Award**, International Youth Day (2018)
-- **Mahatma Gandhi Scholarship**, Embassy of India, Kathmandu  (2013/14)
+- Snizhana Radzetska Award, UGA (2024)
+- Travel Grant Award, UGA (2024)
+- Emerging Youth Award, International Youth Day (2018)
+- Mahatma Gandhi Scholarship, Embassy of India, Kathmandu  (2013/14)
 
 ---
