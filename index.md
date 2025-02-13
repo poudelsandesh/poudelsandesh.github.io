@@ -3,8 +3,7 @@ layout: default
 title: "Sandesh Poudel"
 ---
 
-# Sandesh Poudel  
-**Graduate Research Assistant (PhD)**  
+# Graduate Research Assistant (PhD)  
 Email: spoudel2@illinois.edu | sandeshinpoudel@gmail.com
 
 ---
