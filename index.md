@@ -103,7 +103,7 @@ In addition to my research, I authored the book "Agricultural Extension Educatio
 
 ## Honors & Awards  
 - Snizhana Radzetska Award, UGA (2024)
-- Travel Grant Award, UGA (2024)
+- Travel Grant, UGA (2024)
 - Emerging Youth Award, International Youth Day (2018)
 - Mahatma Gandhi Scholarship, Embassy of India, Kathmandu  (2013/14)
 
