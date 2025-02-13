@@ -4,7 +4,7 @@ title: "Sandesh Poudel"
 ---
 
 # Sandesh Poudel  
-**Doctor in Philosophy**  
+**Graduate Research Assistant (PhD)**  
 Email: spoudel2@illinois.edu | sandeshinpoudel@gmail.com
 
 ---
@@ -16,14 +16,11 @@ My research interest includes Robotics, Drone Image Analysis, Computer Vision, A
 In addition to my research, I authored the book "Agricultural Extension Education", a resource designed to enhance the knowledge and skills of Bachelor’s-level agriculture students. Feel free to connect with me to discuss research collaborations, innovative projects, or opportunities in precision agriculture and agricultural engineering.
 
 ## Education  
-### University of Illinois Urbana Champaign, USA  
-**PhD in Agricultural and Biological Engineering** (Expected: 2028)  
+**PhD in Agricultural and Biological Engineering, University of Illinois Urbana Champaign, USA**  (Expected: 2028)  
 
-### University of Georgia, USA  
-**MS in Agricultural Engineering** (Dec 2024)  
+**MS in Agricultural Engineering, University of Georgia, USA**  (Dec 2024)  
 
-### Tribhuvan University, Nepal  
-**BE in Agricultural Engineering** (Sep 2018)  
+**BE in Agricultural Engineering, Tribhuvan University, Nepal** (Sep 2018)  
 
 ---
 
