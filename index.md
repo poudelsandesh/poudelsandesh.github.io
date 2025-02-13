@@ -4,9 +4,9 @@ title: "Sandesh Poudel"
 ---
 
 # Doctoral Student
-Department of Agricultural and Biological Engineering  
+Department of Agricultural and Biological Engineering,  
 University of Illinois Urbana-Champaign  
-📍 **Office:** 236 Agricultural Engr Sciences Bld, 1304 W Pennsylvania Ave, Urbana 61801  
+236 Agricultural Engr Sciences Bld, 1304 W Pennsylvania Ave, Urbana 61801  
 Email: spoudel2@illinois.edu | sandeshinpoudel@gmail.com  
 
 [Google Scholar](https://scholar.google.com/citations?user=LH3_qT0AAAAJ&hl=en&inst=2365059173406736517) |
@@ -14,7 +14,7 @@ Email: spoudel2@illinois.edu | sandeshinpoudel@gmail.com
  
 ---
 
-## About me
+## About
 A PhD student and Graduate Research Assistant at the University of Illinois Urbana-Champaign, specializing in cutting-edge research at the intersection of engineering and agriculture. I hold a Master’s degree from the College of Engineering, University of Georgia (UGA), where I cultivated a strong foundation in agricultural engineering and technological innovation.
 
 My research interest includes Robotics, Drone Image Analysis, Computer Vision, Artificial Intelligence, Remote Sensing, Machine Learning, Precision Agriculture, Data Science, Computational Engineering, Agricultural Mechanization and Extension. I am passionate about leveraging advanced technologies to address challenges in sustainable agriculture, environmental monitoring, and engineering systems design.
@@ -87,7 +87,7 @@ In addition to my research, I authored the book "Agricultural Extension Educatio
 
 ---
 
-## Leadership Role 
+## Leadership
 - SENATOR, University of Illinois Urbana Champaign, 2025
 - PRESIDENT, Nepalese Student Association, University of Georgia, 2023-2024  
 - PRESIDENT, LEO Club of Dharan Vijayapur, 2017-2018 
