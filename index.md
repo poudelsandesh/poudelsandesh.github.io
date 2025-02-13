@@ -24,17 +24,17 @@ In addition to my research, I authored the book "Agricultural Extension Educatio
 ---
 
 ## Work Experience  
-### Graduate Research Assistant, University of Illinois Urbana Champaign (2024–2028)  
+### Graduate Research Assistant, University of Illinois Urbana Champaign### (2024–Present)  
 - Robotic platform for weed removal in agricultural field  
 - Site-specific robotic operations using high-resolution drone image analysis and computer vision
 
-### Graduate Research Assistant, University of Georgia (2022–2024)  
-- Developed **Digital Agriculture Technology Readiness Level (DATRL)**  
-- Designed training materials for **3D Printing in Agriculture**  
+### Graduate Research Assistant, University of Georgia### (2022–2024)  
+- Developed Digital Agriculture Technology Readiness Level (DATRL)
+- Designed training materials for 3D Printing in Agriculture
 
-### Agriculture Engineer, PMAMP, Govt. of Nepal (2020–2022)  
-- Managed **farm structures, irrigation, and greenhouse projects**  
-- Supervised engineering teams across **13 districts**  
+### Agriculture Engineer, PMAMP, Govt. of Nepal### (2020–2022)  
+- Managed farm structures, irrigation, and greenhouse projects
+- Supervised engineering teams across 13 districts
 
 ---
 
