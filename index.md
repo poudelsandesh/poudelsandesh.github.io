@@ -6,20 +6,12 @@ title: "Sandesh Poudel"
 # Doctoral Student
 Department of Agricultural and Biological Engineering  
 University of Illinois Urbana-Champaign  
-
 📍 **Office:** 236 Agricultural Engr Sciences Bld, 1304 W Pennsylvania Ave, Urbana 61801  
-
 Email: spoudel2@illinois.edu | sandeshinpoudel@gmail.com  
 
-[Google Scholar](https://scholar.google.com/citations?user=LH3_qT0AAAAJ&hl=en&inst=2365059173406736517)
+[Google Scholar](https://scholar.google.com/citations?user=LH3_qT0AAAAJ&hl=en&inst=2365059173406736517) |
 [LinkedIn](https://www.linkedin.com/in/sandesh-poudel-733b59110/recent-activity/all/) 
-
-## Research Interests  
-- Robotics & AI in Agriculture  
-- Remote Sensing & Drone Imagery  
-- Digital Agriculture Technologies  
-- Machine Learning for Precision Farming
-  
+ 
 ---
 
 ## About me
@@ -29,6 +21,16 @@ My research interest includes Robotics, Drone Image Analysis, Computer Vision, A
 
 In addition to my research, I authored the book "Agricultural Extension Education", a resource designed to enhance the knowledge and skills of Bachelor’s-level agriculture students. Feel free to connect with me to discuss research collaborations, innovative projects, or opportunities in precision agriculture and agricultural engineering.
 
+---
+
+## Research Interests  
+- Robotics & AI in Agriculture  
+- Remote Sensing & Drone Imagery  
+- Digital Agriculture Technologies  
+- Machine Learning for Precision Farming
+
+---
+
 ## Education  
 - PhD in Agricultural and Biological Engineering, University of Illinois Urbana Champaign, USA  (Ongoing)  
 - MS in Agricultural Engineering, University of Georgia, USA  (Dec 2024)  
@@ -37,26 +39,26 @@ In addition to my research, I authored the book "Agricultural Extension Educatio
 ---
 
 ## Work Experience  
-### Graduate Research Assistant, University of Illinois Urbana Champaign### (2024–Present)  
+### Graduate Research Assistant, University of Illinois Urbana Champaign (2024–Present)  
 - Robotic platform for weed removal in agricultural field  
 - Site-specific robotic operations using high-resolution drone image analysis and computer vision
 
 ### Graduate Research Assistant, University of Georgia  (2022–2024)  
-•	Developed version 1.0 of Digital Agriculture Technology Readiness Level (DATRL) to assess maturity of technology used in Agriculture.   
+- Developed version 1.0 of Digital Agriculture Technology Readiness Level (DATRL) to assess maturity of technology used in Agriculture.   
 
-•	Constructed training curriculum of 3D printing and its application in agriculture and renewable energy for workforce development for the Future of Digital Agriculture. 
+- Constructed training curriculum of 3D printing and its application in agriculture and renewable energy for workforce development for the Future of Digital Agriculture. 
 
 ### Agriculture Engineer, PMAMP, Govt. of Nepal (2020–2022)  
-•	Implemented projects in the sectors of farm structures, controlled environment plant production, agricultural mechanization, and irrigation management in 13 districts of Bagmati province.   
+- Implemented projects in the sectors of farm structures, controlled environment plant production, agricultural mechanization, and irrigation management in 13 districts of Bagmati province.   
 
-•	Supervised and monitored sub-engineers of 13 districts in Bagmati province with agriculture related engineering work and facilitated in designing and construction of major establishments like Hi-tech Green house, Storage plant, seed processing plant and custom hiring centers.   
+- Supervised and monitored sub-engineers of 13 districts in Bagmati province with agriculture related engineering work and facilitated in designing and construction of major establishments like Hi-tech Green house, Storage plant, seed processing plant and custom hiring centers.   
 
-•	Served as the member of core decision making team to set out overall strategic direction in solving problems. 
+- Served as the member of core decision making team to set out overall strategic direction in solving problems. 
 
 ### Enumerator, CIMMYT International, South Asia Regional Office (2019)  
-•	Collected household level wheat production practice related information in different rural/municipalities of central and eastern terai regions of Nepal.  
+- Collected household level wheat production practice related information in different rural/municipalities of central and eastern terai regions of Nepal.  
 
-•	Interacted with small land holder farmers to understand the exact situations of machineries used during farming in central and eastern terai regions of Nepal.
+- Interacted with small land holder farmers to understand the exact situations of machineries used during farming in central and eastern terai regions of Nepal.
 
 ---
 
@@ -68,15 +70,15 @@ In addition to my research, I authored the book "Agricultural Extension Educatio
 ---
 
 ## Conference Presentations  
-•	Poudel, S., Rains, G.C., Porter, W., Mani, S. (2024). Development of the Digital Agricultural Technology Readiness Level (DATRL): A Comprehensive Framework for Assessing Digital Agricultural Technologies – American Society of Agricultural and Biological Engineers, Annual International Meeting, Anaheim, CA, US.  
+- Poudel, S., Rains, G.C., Porter, W., Mani, S. (2024). Development of the Digital Agricultural Technology Readiness Level (DATRL): A Comprehensive Framework for Assessing Digital Agricultural Technologies – American Society of Agricultural and Biological Engineers, Annual International Meeting, Anaheim, CA, US.  
 
-•	Poudel, S., Mani, S. (2023).  Current trend of Digital Agriculture Technology in the United States, American Society of Agricultural and Biological Engineers, Annual General Meeting 2023, Omaha, Nebraska, US.   
+- Poudel, S., Mani, S. (2023).  Current trend of Digital Agriculture Technology in the United States, American Society of Agricultural and Biological Engineers, Annual General Meeting 2023, Omaha, Nebraska, US.   
 
-•	Poudel, S., Kafle, S., (2018). Study on Energy use, greenhouse gas emission and global warming potential for maize production in Morang District Nepal, 4th International Conference on Renewable Energy Technology for Rural and Urban Development (RETRUD-18), Kathmandu, Nepal.  
+- Poudel, S., Kafle, S., (2018). Study on Energy use, greenhouse gas emission and global warming potential for maize production in Morang District Nepal, 4th International Conference on Renewable Energy Technology for Rural and Urban Development (RETRUD-18), Kathmandu, Nepal.  
 
-•	Poudel, S., Brophy, C.K., Thapa, S., Rains, G.C., Mani, S. (2024). Advancing Digital Agriculture: Bridging the Knowledge Gap through Hand-on Training in Digital Technologies for Farmers – American Society of Agricultural and Biological Engineers, Annual International Meeting, Anaheim, CA, US.  
+- Poudel, S., Brophy, C.K., Thapa, S., Rains, G.C., Mani, S. (2024). Advancing Digital Agriculture: Bridging the Knowledge Gap through Hand-on Training in Digital Technologies for Farmers – American Society of Agricultural and Biological Engineers, Annual International Meeting, Anaheim, CA, US.  
 
-•	Poudel, S., Mani, S. (2023). Development of Digital Agriculture Technology Readiness Levels (DATRL) for the Future of Digital Agriculture, American Society of Agricultural and Biological Engineers (ASABE), Annual General Meeting 2023, Omaha, Nebraska, US.   
+- Poudel, S., Mani, S. (2023). Development of Digital Agriculture Technology Readiness Levels (DATRL) for the Future of Digital Agriculture, American Society of Agricultural and Biological Engineers (ASABE), Annual General Meeting 2023, Omaha, Nebraska, US.   
 
 ---
 
