@@ -10,18 +10,15 @@
         .active { display: block; }
     </style>
 </head>
-<body class="bg-sky-500 text-black">
-    <header class="p-6 text-center bg-gray-800">
+<body class="bg-blue-300 text-black">
+    <header class="p-6 text-center bg-gray-800 flex flex-col items-center">
+        <img src="assets/profile.jpg" alt="Sandesh Poudel" class="w-48 h-48 rounded-full mb-4">
         <h1 class="text-3xl font-bold text-white">Sandesh Poudel</h1>
         <p class="text-lg text-white">Agricultural & Biological Engineer | Researcher</p>
     </header>
     
-    <div class="flex justify-center mt-4">
-        <img src="assets/profile.jpg" alt="Sandesh Poudel" class="w-48 h-48 rounded-full">
-    </div>
-    
-    <nav class="p-4 bg-gray-700 text-center">
-        <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'about')">About</button>
+    <nav class="p-4 bg-gray-700 text-right">
+        <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'about')">Home</button>
         <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'research')">Research</button>
         <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'contact')">Contact</button>
     </nav>
@@ -44,8 +41,8 @@
         <p>Email: spoudel2@illinois.edu</p>
     </section>
     
-    <footer class="p-4 text-center bg-gray-800">
-        <p class="text-white">&copy; 2025 Sandesh Poudel. All rights reserved.</p>
+    <footer class="p-4 text-center">
+        <p class="text-black">&copy; 2025 Sandesh Poudel. All rights reserved.</p>
     </footer>
     
     <script>
