@@ -6,17 +6,19 @@
     <title>Sandesh Poudel | Agricultural & Biological Engineer</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        .tab-content { display: none; }
+        .tab-content { display: none; color: black; }
         .active { display: block; }
-        body { background-color: skyblue; }
     </style>
 </head>
-<body class="text-white">
+<body class="bg-sky-500 text-black">
     <header class="p-6 text-center bg-gray-800">
-        <img src="assets/profile.jpg" alt="Sandesh Poudel" class="w-32 h-32 mx-auto rounded-full">
-        <h1 class="text-3xl font-bold">Sandesh Poudel</h1>
-        <p class="text-lg">Agricultural & Biological Engineer | Researcher</p>
+        <h1 class="text-3xl font-bold text-white">Sandesh Poudel</h1>
+        <p class="text-lg text-white">Agricultural & Biological Engineer | Researcher</p>
     </header>
+    
+    <div class="flex justify-center mt-4">
+        <img src="assets/profile.jpg" alt="Sandesh Poudel" class="w-48 h-48 rounded-full">
+    </div>
     
     <nav class="p-4 bg-gray-700 text-center">
         <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'about')">About</button>
@@ -26,23 +28,24 @@
     
     <section id="about" class="tab-content active p-8">
         <h2 class="text-2xl font-semibold">About Me</h2>
-        <p class="mt-2">Sandesh Poudel is a Ph.D. student and Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Illinois Urbana-Champaign (UIUC). His research focuses on the intersection of robotics, artificial intelligence, remote sensing, and precision agriculture and aims to develop innovative solutions for sustainable agricultural systems...</p>
+        <p class="mt-2">Sandesh Poudel is a Ph.D. student and Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Illinois Urbana-Champaign (UIUC)...</p>
     </section>
     
     <section id="research" class="tab-content p-8">
         <h2 class="text-2xl font-semibold">Research & Projects</h2>
-        <p class="mt-2">PhD: Developing autonomous robotic systems and enabling site-specific robotic operations using high-resolution drone image analysis and computer vision. This work is deeply rooted in the application of Robotics, Drone Imagery, Python, OpenCV, Machine Learning, Artificial Intelligence, Data Science, and Remote Sensing.</p>
-        <p class="mt-2">Masters: Developed the Digital Agriculture Technology Readiness Level (DATRL) framework to assess the maturity of digital technologies in agriculture...</p>
+        <p class="mt-2">PhD: developing autonomous robotic systems and enabling site-specific robotic operations using high-resolution drone image analysis and computer vision...</p>
     </section>
     
     <section id="contact" class="tab-content p-8">
         <h2 class="text-2xl font-semibold">Contact</h2>
-        <p class="mt-2">236 Agricultural Engr Sciences Bld<br>1304 W Pennsylvania Ave<br>Urbana 61801</p>
-        <p>Email: <a href="mailto:spoudel2@illinois.edu" class="text-blue-400">spoudel2@illinois.edu</a></p>
+        <p class="mt-2">236 Agricultural Engr Sciences Bld</p>
+        <p>1304 W Pennsylvania Ave</p>
+        <p>Urbana 61801</p>
+        <p>Email: spoudel2@illinois.edu</p>
     </section>
     
     <footer class="p-4 text-center bg-gray-800">
-        <p>&copy; 2025 Sandesh Poudel. All rights reserved.</p>
+        <p class="text-white">&copy; 2025 Sandesh Poudel. All rights reserved.</p>
     </footer>
     
     <script>
