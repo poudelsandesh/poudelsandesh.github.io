@@ -8,10 +8,12 @@
     <style>
         .tab-content { display: none; }
         .active { display: block; }
+        body { background-color: skyblue; }
     </style>
 </head>
-<body class="bg-gray-900 text-white">
+<body class="text-white">
     <header class="p-6 text-center bg-gray-800">
+        <img src="assets/profile.jpg" alt="Sandesh Poudel" class="w-32 h-32 mx-auto rounded-full">
         <h1 class="text-3xl font-bold">Sandesh Poudel</h1>
         <p class="text-lg">Agricultural & Biological Engineer | Researcher</p>
     </header>
@@ -19,34 +21,24 @@
     <nav class="p-4 bg-gray-700 text-center">
         <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'about')">About</button>
         <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'research')">Research</button>
-        <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'cv')">CV</button>
         <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'contact')">Contact</button>
     </nav>
     
     <section id="about" class="tab-content active p-8">
         <h2 class="text-2xl font-semibold">About Me</h2>
-        <p class="mt-2">I am a PhD student specializing in robotics, drones, AI, and data science for precision agriculture.</p>
+        <p class="mt-2">Sandesh Poudel is a Ph.D. student and Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Illinois Urbana-Champaign (UIUC). His research focuses on the intersection of robotics, artificial intelligence, remote sensing, and precision agriculture and aims to develop innovative solutions for sustainable agricultural systems...</p>
     </section>
     
     <section id="research" class="tab-content p-8">
         <h2 class="text-2xl font-semibold">Research & Projects</h2>
-        <ul class="mt-2 list-disc list-inside">
-            <li>Digital Agricultural Technology Readiness Level (DATRL)</li>
-            <li>3D Printing for Precision Agriculture</li>
-            <li>Drone Imagery Analysis for Crop Monitoring</li>
-        </ul>
-    </section>
-    
-    <section id="cv" class="tab-content p-8">
-        <h2 class="text-2xl font-semibold">CV</h2>
-        <p class="mt-2">Download my CV <a href="#" class="text-blue-400">here</a>.</p>
+        <p class="mt-2">PhD: Developing autonomous robotic systems and enabling site-specific robotic operations using high-resolution drone image analysis and computer vision. This work is deeply rooted in the application of Robotics, Drone Imagery, Python, OpenCV, Machine Learning, Artificial Intelligence, Data Science, and Remote Sensing.</p>
+        <p class="mt-2">Masters: Developed the Digital Agriculture Technology Readiness Level (DATRL) framework to assess the maturity of digital technologies in agriculture...</p>
     </section>
     
     <section id="contact" class="tab-content p-8">
         <h2 class="text-2xl font-semibold">Contact</h2>
-        <p class="mt-2">Email: sandesh@example.com</p>
-        <p>LinkedIn: <a href="#" class="text-blue-400">linkedin.com/in/sandesh</a></p>
-        <p>GitHub: <a href="#" class="text-blue-400">github.com/sandesh</a></p>
+        <p class="mt-2">236 Agricultural Engr Sciences Bld<br>1304 W Pennsylvania Ave<br>Urbana 61801</p>
+        <p>Email: <a href="mailto:spoudel2@illinois.edu" class="text-blue-400">spoudel2@illinois.edu</a></p>
     </section>
     
     <footer class="p-4 text-center bg-gray-800">
