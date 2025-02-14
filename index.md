@@ -15,11 +15,15 @@ Email: spoudel2@illinois.edu | sandeshinpoudel@gmail.com
 ---
 
 ## About
-A PhD student and Graduate Research Assistant at the University of Illinois Urbana-Champaign, specializing in cutting-edge research at the intersection of engineering and agriculture. I hold a Master’s degree from the College of Engineering, University of Georgia (UGA), where I cultivated a strong foundation in agricultural engineering and technological innovation.
+Sandesh Poudel is a Ph.D. student and Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Illinois Urbana-Champaign (UIUC). His research focuses on the intersection of robotics, artificial intelligence, remote sensing, and precision agriculture and aims to develop innovative solutions for sustainable agricultural systems. He holds a Masters degree in Agricultural Engineering from the University of Georgia (UGA) and a Bachelors degree in Agricultural Engineering from Tribhuvan University, Nepal.
 
-My research interest includes Robotics, Drone Image Analysis, Computer Vision, Artificial Intelligence, Remote Sensing, Machine Learning, Precision Agriculture, Data Science, Computational Engineering, Agricultural Mechanization and Extension. I am passionate about leveraging advanced technologies to address challenges in sustainable agriculture, environmental monitoring, and engineering systems design.
+With a strong foundation in computational engineering, computer vision, drone image analysis, and machine learning, Sandesh is passionate about leveraging cutting-edge technologies to address global challenges in sustainable agriculture. His previous work in Nepal, including contributions to mechanization and automation in rice cultivation under the Prime Minister Agricultural Modernization Project, Government of Nepal has had a significant impact on the country's agricultural landscape.
 
-In addition to my research, I authored the book "Agricultural Extension Education", a resource designed to enhance the knowledge and skills of Bachelor’s-level agriculture students. Feel free to connect with me to discuss research collaborations, innovative projects, or opportunities in precision agriculture and agricultural engineering.
+In his past research, Sandesh developed the Digital Agriculture Technology Readiness Level (DATRL) framework to assess the maturity of digital technologies in agriculture. He advocates that all the digital agricultural technologies must be farmer-ready and undergo proper assessment of their maturity level before commercial deployment. Sandesh believes that by ensuring a structured evaluation, DATRL bridges the gap between research and real-world application and enables scalable, effective, and inclusive technological adoption that meets the needs of all stakeholders in the agricultural ecosystem
+
+Beyond research, Sandesh is the author of Agricultural Extension Education, a resource designed to enhance the knowledge and skills of undergraduate agriculture students. He has presented his research at national and international conferences and has been actively involved in academic and leadership roles. As a former president of two organizations, his contributions have earned him prestigious accolades, including the Best Leo of the Year, the Emerging Youth Award, and the Snizhana Radzetska Award.
+
+Born and raised in the Himalayas of Nepal, Sandesh is a strong advocate for the responsible use of technology for the betterment of humanity. He is dedicated to advancing innovation in agricultural engineering and looks forward to making further significant contributions to the field.
 
 ---
 
