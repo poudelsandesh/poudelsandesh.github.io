@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sandesh Poudel | Agricultural & Biological Engineer</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .tab-content { display: none; }
+        .active { display: block; }
+    </style>
 </head>
 <body class="bg-gray-900 text-white">
     <header class="p-6 text-center bg-gray-800">
@@ -12,12 +16,19 @@
         <p class="text-lg">Agricultural & Biological Engineer | Researcher</p>
     </header>
     
-    <section class="p-8">
+    <nav class="p-4 bg-gray-700 text-center">
+        <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'about')">About</button>
+        <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'research')">Research</button>
+        <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'cv')">CV</button>
+        <button class="tab-link p-2 mx-2 bg-gray-600 hover:bg-gray-500" onclick="openTab(event, 'contact')">Contact</button>
+    </nav>
+    
+    <section id="about" class="tab-content active p-8">
         <h2 class="text-2xl font-semibold">About Me</h2>
         <p class="mt-2">I am a PhD student specializing in robotics, drones, AI, and data science for precision agriculture.</p>
     </section>
     
-    <section class="p-8">
+    <section id="research" class="tab-content p-8">
         <h2 class="text-2xl font-semibold">Research & Projects</h2>
         <ul class="mt-2 list-disc list-inside">
             <li>Digital Agricultural Technology Readiness Level (DATRL)</li>
@@ -26,17 +37,12 @@
         </ul>
     </section>
     
-    <section class="p-8">
-        <h2 class="text-2xl font-semibold">Skills & Technologies</h2>
-        <p class="mt-2">Python, ROS, OpenCV, AI, Data Science, Remote Sensing, Drone Imagery</p>
+    <section id="cv" class="tab-content p-8">
+        <h2 class="text-2xl font-semibold">CV</h2>
+        <p class="mt-2">Download my CV <a href="#" class="text-blue-400">here</a>.</p>
     </section>
     
-    <section class="p-8">
-        <h2 class="text-2xl font-semibold">Publications</h2>
-        <p class="mt-2">Coming Soon...</p>
-    </section>
-    
-    <section class="p-8">
+    <section id="contact" class="tab-content p-8">
         <h2 class="text-2xl font-semibold">Contact</h2>
         <p class="mt-2">Email: sandesh@example.com</p>
         <p>LinkedIn: <a href="#" class="text-blue-400">linkedin.com/in/sandesh</a></p>
@@ -46,6 +52,22 @@
     <footer class="p-4 text-center bg-gray-800">
         <p>&copy; 2025 Sandesh Poudel. All rights reserved.</p>
     </footer>
+    
+    <script>
+        function openTab(evt, tabName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tab-content");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tab-link");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].classList.remove("bg-gray-500");
+            }
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.classList.add("bg-gray-500");
+        }
+        document.getElementById("about").style.display = "block";
+    </script>
 </body>
 </html>
-
