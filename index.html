@@ -47,6 +47,9 @@
             top: 0;
             z-index: 1000;
         }
+        .top-bar .tabs {
+            margin-left: auto;
+        }
         .footer {
             background-color: #F5FBFF;
             text-align: center;
@@ -55,12 +58,18 @@
             display: none;
             width: 100%;
         }
+        .title-bar {
+            background: rgba(200, 220, 255, 0.8);
+            text-align: center;
+            padding: 10px;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body class="bg-[#F5FBFF] text-black" onscroll="showFooter()">
     <div class="top-bar">
         <div class="menu-icon" onclick="toggleSidebar()">&#9776;</div>
-        <div>
+        <div class="tabs">
             <button class="p-2 mx-2 bg-sky-300 hover:bg-sky-200" onclick="openTab(event, 'about')">Home</button>
             <button class="p-2 mx-2 bg-sky-300 hover:bg-sky-200" onclick="openTab(event, 'research')">Research</button>
             <button class="p-2 mx-2 bg-sky-300 hover:bg-sky-200" onclick="openTab(event, 'contact')">Contact</button>
@@ -75,26 +84,28 @@
     
     <header class="p-6 text-center bg-gray-800 flex flex-col items-center" style="background-image: url('assets/robot.webp'); background-size: cover; background-position: center; margin-top: 50px;">
         <img src="assets/profile.jpg" alt="Sandesh Poudel" class="w-48 h-48 rounded-full mb-4">
-        <h1 class="text-3xl font-bold text-black">Sandesh Poudel</h1>
-        <p class="text-lg text-black">Author | Agricultural & Biological Engineer</p>
+        <div class="title-bar">Sandesh Poudel | Author | Agricultural & Biological Engineer</div>
     </header>
     
     <section id="about" class="tab-content active p-8" style="background-color: #F5FBFF;">
         <h2 class="text-2xl font-semibold">About Me</h2>
-        <p class="mt-2">Sandesh Poudel is a Ph.D. student and Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Illinois Urbana-Champaign (UIUC). His research focuses on the intersection of robotics, artificial intelligence, remote sensing, and precision agriculture and aims to develop innovative solutions for sustainable agricultural systems. He holds a Masters degree in Agricultural Engineering from the University of Georgia (UGA) and a Bachelors degree in Agricultural Engineering from Tribhuvan University, Nepal. </br>
+        <p class="mt-2">Sandesh Poudel is a Ph.D. student and Graduate Research Assistant in the Department of Agricultural and Biological Engineering at the University of Illinois Urbana-Champaign (UIUC). His research focuses on the intersection of robotics, artificial intelligence, remote sensing, and precision agriculture and aims to develop innovative solutions for sustainable agricultural systems. He holds a Masters degree in Agricultural Engineering from the University of Georgia (UGA) and a Bachelors degree in Agricultural Engineering from Tribhuvan University, Nepal.</br></br>
 
-With a strong foundation in computational engineering, computer vision, drone image analysis, and machine learning, Sandesh is passionate about leveraging cutting-edge technologies to address global challenges in sustainable agriculture. His previous work in Nepal, including contributions to mechanization and automation in rice cultivation under the Prime Minister Agricultural Modernization Project, Government of Nepal has had a significant impact on the country's agricultural landscape.</br>
+With a strong foundation in computational engineering, computer vision, drone image analysis, and machine learning, Sandesh is passionate about leveraging cutting-edge technologies to address global challenges in sustainable agriculture. His previous work in Nepal, including contributions to mechanization and automation in rice cultivation under the Prime Minister Agricultural Modernization Project, Government of Nepal has had a significant impact on the country's agricultural landscape.</br></br>
 
 In his past research, Sandesh developed the Digital Agriculture Technology Readiness Level (DATRL) framework to assess the maturity of digital technologies in agriculture. He advocates that all the digital agricultural technologies must be farmer-ready and undergo proper assessment of their maturity level before commercial deployment. Sandesh believes that by ensuring a structured evaluation, DATRL bridges the gap between research and real-world application and enables scalable, effective, and inclusive technological adoption that meets the needs of all stakeholders in the agricultural ecosystem
 
-Beyond research, Sandesh is the author of Agricultural Extension Education, a resource designed to enhance the knowledge and skills of undergraduate agriculture students. He has presented his research at national and international conferences and has been actively involved in academic and leadership roles. As a former president of two organizations, his contributions have earned him prestigious accolades, including the Best Leo of the Year, the Emerging Youth Award, and the Snizhana Radzetska Award.</br>
+Beyond research, Sandesh is the author of Agricultural Extension Education, a resource designed to enhance the knowledge and skills of undergraduate agriculture students. He has presented his research at national and international conferences and has been actively involved in academic and leadership roles. As a former president of two organizations, his contributions have earned him prestigious accolades, including the Best Leo of the Year, the Emerging Youth Award, and the Snizhana Radzetska Award.
 
 Born and raised in the Himalayas of Nepal, Sandesh is a strong advocate for the responsible use of technology for the betterment of humanity. He is dedicated to advancing innovation in agricultural engineering and looks forward to making further significant contributions to the field.</p>
     </section>
     
     <section id="research" class="tab-content p-8" style="background-color: #F5FBFF;">
         <h2 class="text-2xl font-semibold">Research & Projects</h2>
-        <p class="mt-2">PhD: developing autonomous robotic systems and enabling site-specific robotic operations using high-resolution drone image analysis and computer vision...</p>
+        <p class="mt-2">PhD: developing autonomous robotic systems and enabling site-specific robotic operations using high-resolution drone image analysis and computer vision. This work is deeply rooted in the application of Robotics, Drone Imagery, Python, OpenCV, Machine Learning, Artificial Intelligence, Data Science, and Remote Sensing.  </br></br>
+
+Masters: Developed the Digital Agriculture Technology Readiness Level (DATRL) framework to assess the maturity of digital technologies in agriculture. Technologies need to be farmer-ready and undergo proper assessment of their maturity level before commercial deployment. 
+</p>
     </section>
     
     <section id="contact" class="tab-content p-8" style="background-color: #F5FBFF;">
